@@ -1,5 +1,5 @@
 import { arrowRight } from "../assets/icons"
-import Button from "../Components/button";
+import {Button} from "../Components/Button";
 import { shoe8} from "../assets/images"
 
 
